@@ -1,0 +1,1 @@
+Go to home page on Google and click more and click a star button and click edit and write the name as inspect element and url as the code which I give in the file and click back button and select the website you want and search inspect element in address bar and click inspect element and enjoy. Sorry for my bad English
